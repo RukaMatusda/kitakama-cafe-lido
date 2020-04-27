@@ -95,7 +95,7 @@ img {
 
 /*--home--*/
 #home {
-  background-image: url(/Users/Matsuda/Downloads/HTML-CSS-Webdesign-2/WCBCfe/images/main-bg.jpg);
+  background-image: url(main-bg.jpg);
   min-height: 100vh;
 }
 
@@ -115,7 +115,7 @@ img {
 
 /*--NEWS--*/
 #news {
-  background-image: url(/Users/Matsuda/Downloads/HTML-CSS-Webdesign-2/WCBCfe/images/news-bg.jpg);
+  background-image: url(news-bg.jpg);
   height: 270px;
   margin-bottom: 40px;
 }
@@ -210,7 +210,7 @@ aside p {
 }
 
 #menu {
-  background-image: url(/Users/Matsuda/Downloads/HTML-CSS-Webdesign-2/WCBCfe/images/menu-bg.jpg);
+  background-image: url(menu-bg.jpg);
   min-height: 100vh;
 }
 
@@ -252,7 +252,7 @@ aside p {
 
 /* --CONTACT-- */
 #contact {
-  background-image: url(/Users/Matsuda/Downloads/HTML-CSS-Webdesign-2/WCBCfe/images/contact-bg.jpg);
+  background-image: url(contact-bg.jpg);
   min-height: 100vh;
 }
 
