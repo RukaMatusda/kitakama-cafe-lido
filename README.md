@@ -1,1 +1,0 @@
-# kitakama-cafe-lido
