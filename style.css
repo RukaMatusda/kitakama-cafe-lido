@@ -95,7 +95,7 @@ img {
 
 /*--home--*/
 #home {
-  background-image: url(https://github.com/kitakamakuracafe/kitakama-cafe-lido/blob/master/main-bg.jpg?raw=true);
+  background-image: url(https://raw.githubusercontent.com/kitakamakuracafe/kitakama-cafe-lido/master/main-bg.jpg);
   min-height: 100vh;
 }
 
